@@ -1,4 +1,4 @@
-# But4Reuse (Note de projet : **17/20**)
+# But4Reuse (Projet de Master STL : **17/20**)
 
 Composant générateur automatique et paramétrable d'IDE Eclipse.
 Projet encadré par un enseignant chercheur (Ziadi Tewfik) et un doctorant (Jabier Martinez), dans le cadre de l'UE PSTL du M1 STL (Paris 6 - Jussieu - UPMC)
